@@ -18,10 +18,10 @@
   </div>
 
 ##
-<h3 align="center"> Rstatísticas </h3>
+<h3 align="center"> Estatísticas </h3>
   
  <div align="center">
   <a href="https://github.com/FernandohsSantos1"></a>
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=FernandohsSantos1&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandohsSantos1&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=FernandohsSantos1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandohsSantos1&layout=compact&langs_count=7&theme=dark"/>
  </div>
