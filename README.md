@@ -22,6 +22,6 @@
   
  <div align="center">
   <a href="https://github.com/FernandohsSantos1"></a>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=FernandohsSantos1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=FernandohsSantos1&theme=dark&show_icons=true"/>
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandohsSantos1&layout=compact&langs_count=7&theme=dark"/>
  </div>
